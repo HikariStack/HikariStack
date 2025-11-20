@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🌟 HikariStack
 
-<!--
-**HikariStack/HikariStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Iluminando el desarrollo web con claridad, técnica y estilo.**  
+Bienvenido a mi perfil. Soy Héctor, estudiante de DAW en Cantabria, y aquí comparto mi evolución como desarrollador web, mis proyectos y mi pasión por el código y la creatividad.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+```txt
+
+📚 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+☕ Aprendiendo Java y SQL con ganas de dominar el backend  
+📸 Amante de la fotografía y el diseño visual  
+🌐 Apasionado por crear páginas web modernas, funcionales y con estilo  
